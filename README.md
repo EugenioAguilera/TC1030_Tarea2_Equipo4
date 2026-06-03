@@ -15,6 +15,24 @@ Matrix.h:
 <img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/1ab63396-43cb-4e93-a493-078da8b073e1" />
 
 
+Ejercicio B2 — Función plantilla genérica
+MatrixOp.h: 
+<img width="1365" height="718" alt="image" src="https://github.com/user-attachments/assets/1c9f6524-9e7c-4fcf-a36a-0f30b8938208" />
+<img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/7b83371e-38a2-48e6-9419-b16bd01d6541" />
+
+MatrixOp.cpp: 
+<img width="1365" height="723" alt="image" src="https://github.com/user-attachments/assets/f7e96694-a496-40a7-9b1b-8a1a9f0ca492" />
+<img width="1364" height="722" alt="image" src="https://github.com/user-attachments/assets/a3780ed1-f241-4d1e-88b9-194193a9aef9" />
+
+main.cpp: 
+<img width="1365" height="722" alt="image" src="https://github.com/user-attachments/assets/80fe0e62-3555-4e42-8aac-8f0454b3cc4d" />
+<img width="1365" height="718" alt="image" src="https://github.com/user-attachments/assets/d926a62b-f776-4dd2-8c54-632c850169b9" />
+
+
+
+
+
+
 
 
 
