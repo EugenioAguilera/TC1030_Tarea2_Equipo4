@@ -33,7 +33,9 @@ main.cpp:
 #  Ejercicio B3 — Herencia y métodos virtuales
 
 MatrixOp.h:
+
 <img width="705" height="663" alt="image" src="https://github.com/user-attachments/assets/c364bd20-1361-4238-a943-c7065e65a3f0" />
+
 <img width="676" height="446" alt="image" src="https://github.com/user-attachments/assets/d3153944-871d-46ff-9c62-002c945b7024" />
 
 main.cpp:
