@@ -39,9 +39,11 @@ MatrixOp.h:
 <img width="676" height="446" alt="image" src="https://github.com/user-attachments/assets/d3153944-871d-46ff-9c62-002c945b7024" />
 
 main.cpp:
+
 <img width="664" height="441" alt="image" src="https://github.com/user-attachments/assets/5e07b497-9fb8-4264-b611-72af0f73154e" />
 
 SALIDA:
+
 <img width="469" height="106" alt="image" src="https://github.com/user-attachments/assets/c810eb22-a5e1-4c15-b114-ec5f924d91e1" />
 
 
